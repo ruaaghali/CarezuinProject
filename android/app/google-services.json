@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442088331894",
+    "firebase_url": "https://foorsalecars-default-rtdb.firebaseio.com",
+    "project_id": "foorsalecars",
+    "storage_bucket": "foorsalecars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442088331894:android:d37f57682f38088e4a9d57",
+        "android_client_info": {
+          "package_name": "com.alshawesh.caruzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442088331894-88uq720cq3hnmr4ns2aj78sgn6ikgu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HG4WoJCzkA_b2yerfiDzS2iMXUeDIeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442088331894-88uq720cq3hnmr4ns2aj78sgn6ikgu2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442088331894-3tota60l2nsd9qb5k5gfanoblmrtei5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alshawesh.caruzen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442088331894",
+    "project_id": "foorsalecars",
+    "storage_bucket": "foorsalecars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442088331894:android:8aa08ceba1d4c1634a9d57",
+        "android_client_info": {
+          "package_name": "com.alshawesh.caruzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442088331894-me7b83nloiq1ehbenni40a89geo5e49u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alshawesh.caruzen",
+            "certificate_hash": "737a2fcedccf338f937c327aa77c23e19cf836b6"
+          }
+        },
+        {
+          "client_id": "442088331894-snha1tuio2je8bccgcr1hclp705fao5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alshawesh.caruzen",
+            "certificate_hash": "6100ccd8eebc0f45f1d44b0b3060fe082dbfc897"
+          }
+        },
+        {
+          "client_id": "442088331894-88uq720cq3hnmr4ns2aj78sgn6ikgu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HG4WoJCzkA_b2yerfiDzS2iMXUeDIeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442088331894-88uq720cq3hnmr4ns2aj78sgn6ikgu2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
